@@ -10,7 +10,7 @@ Features
 
 A casual JavaScript puzzle game designed for efficient short study breaks. Paired with relaxing piano
 music in the background this static web game makes a perfect stress reliever. Implemented in HTML5, 
-CSS3, JQuery and Angular.JS with a recursive AI algorithm. 
+CSS3 and JQuery with a recursive AI algorithm. 
 
 Usage
 ------------
