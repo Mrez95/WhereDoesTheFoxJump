@@ -3,7 +3,7 @@ Where Does The Fox Jump
 
 Try to catch the sneaky fox before it escapes! 
 
-![alt='http://bazhanga.com/images/fox_jump.png'](http://bazhanga.com/images/fox_jump.png)
+![alt='/images/fox_jump.png'](/images/fox_jump.png)
 
 Features
 ------------
