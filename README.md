@@ -3,7 +3,7 @@ Where Does The Fox Jump
 
 Try to catch the sneaky fox before it escapes! 
 
-![alt='/images/fox_jump.png'](/images/fox_jump.png)
+![alt='public_html/images/fox_jump.png'](public_html/images/fox_jump.png)
 
 Features
 ------------
@@ -15,7 +15,7 @@ CSS3, JQuery and Angular.JS with a recursive AI algorithm.
 Usage
 ------------
 
-LIVE DEMO [play it here!](http://bazhanga.com/fox.html).
+LIVE DEMO [play it here!](public_html/images/fox_jump.png).
 
 License
 -------------
