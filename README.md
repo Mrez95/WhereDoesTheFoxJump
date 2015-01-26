@@ -19,6 +19,6 @@ LIVE DEMO [play it here!](http://bazhanga.com/fox.html).
 
 License
 -------------
-Copyright (c) 2014 Eddie Zhang.
+Copyright (c) 2015 Eddie Zhang.
 
 _________________________
